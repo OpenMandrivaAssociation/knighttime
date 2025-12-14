@@ -6,7 +6,7 @@
 
 Summary: Library for scheduling the dark-light cycle
 Name: knighttime
-Version: 6.5.3
+Version: 6.5.4
 Release: %{?git:0.%{git}.}1
 URL: https://kde.org/
 License: GPL
